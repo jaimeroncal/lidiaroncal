@@ -14,7 +14,7 @@
 # http://www.robotstxt.org/robotstxt.html
 
 # Sitemap
-Sitemap: https://www.lidiaroncal.com/sitemap.xml
+Sitemap: https://lidiaroncal.com/sitemap.xml
 
 User-agent: *
 

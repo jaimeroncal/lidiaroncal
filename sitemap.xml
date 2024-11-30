@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://www.lidiaroncal.com/</loc>
+      <loc>https://lidiaroncal.com/</loc>
       <lastmod>2024-11-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://www.lidiaroncal.com/projects</loc>
+      <loc>https://lidiaroncal.com/projects</loc>
       <lastmod>2024-11-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://www.lidiaroncal.com/about-me</loc>
+      <loc>https://lidiaroncal.com/about-me</loc>
       <lastmod>2024-11-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
    <url>
-      <loc>https://www.lidiaroncal.com/contact</loc>
+      <loc>https://lidiaroncal.com/contact</loc>
       <lastmod>2024-11-30</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.4</priority>
